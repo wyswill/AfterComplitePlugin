@@ -1,0 +1,7 @@
+{
+  "version": "1.0.1",
+  "description": "在wbpack 编译完成之后执行回调函数",
+  "name": "after-complite-plugin",
+  "author": "wyswill",
+  "main": "./src/index.js"
+}
